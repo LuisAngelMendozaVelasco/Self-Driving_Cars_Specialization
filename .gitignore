@@ -2,10 +2,10 @@
 ###########
 **/__pycache__
 **/.ipynb_checkpoints
-*.pyc
 **/cache
 
 # Files #
 #########
 IntroductionToSelf-DrivingCars/**/*.txt
 StateEstimationAndLocalizationForSelf-DrivingCars/**/*.pkl
+*.Identifier
